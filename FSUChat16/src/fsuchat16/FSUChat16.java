@@ -15,8 +15,27 @@ public class FSUChat16 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
         System.out.println("Jermykl was here");
     }
-    
+       
+   public static void go()
+{
+   System.out.println("Helloworld");
+   
+   
+    }
+
+   
+   
+   public static String test()
+   {
+     String ComputerClub = ("This is a test for the club");
+     return ComputerClub;
+        }
 }
+
+   
+
+
+   
