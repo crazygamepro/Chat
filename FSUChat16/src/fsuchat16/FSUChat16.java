@@ -16,7 +16,7 @@ public class FSUChat16 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Steve was here");
+        System.out.println("Jermykl was here");
     }
     
 }
